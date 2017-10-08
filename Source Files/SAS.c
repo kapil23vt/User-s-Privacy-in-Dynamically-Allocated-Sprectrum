@@ -1,10 +1,3 @@
-/* 
- * File:   SAS.c
- * Author: yanzhi
- *
- * Created on December 2, 2014, 7:57 PM
- */
-
 #include <stdlib.h>
 #include "Parameters.h"
 #include "paillier.h"
